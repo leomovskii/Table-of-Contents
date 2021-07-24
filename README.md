@@ -41,7 +41,7 @@ Technologies used:
 One-line calculator of mathematical expressions.
 
 Technologies used:
-...
+* Java 1.8
 
 # [Engine3310](https://github.com/leomovskii/Engine3310)
 
